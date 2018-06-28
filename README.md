@@ -1,14 +1,14 @@
-# Slush Slush-wac [![Build Status](https://secure.travis-ci.org/neovajohn/slush-slush-wac.png?branch=master)](https://travis-ci.org/neovajohn/slush-slush-wac) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-slush-wac.png)](http://badges.enytc.com/for/npm/slush-slush-wac)
+# Slush Slush-wac [![Build Status](https://secure.travis-ci.org/novajohn/slush-wac.png?branch=master)](https://travis-ci.org/novajohn/slush-wac) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-wac.png)](http://badges.enytc.com/for/npm/slush-wac)
 
 > 
 
 
 ## Getting Started
 
-Install `slush-slush-wac` globally:
+Install `slush-wac` globally:
 
 ```bash
-$ npm install -g slush-slush-wac
+$ npm install -g slush-wac
 ```
 
 ### Usage
@@ -16,13 +16,13 @@ $ npm install -g slush-slush-wac
 Create a new folder for your project:
 
 ```bash
-$ mkdir my-slush-slush-wac
+$ mkdir my-slush-wac
 ```
 
 Run the generator from within the new folder:
 
 ```bash
-$ cd my-slush-slush-wac && slush slush-wac
+$ cd my-slush-wac && slush slush-wac
 ```
 
 ## Getting To Know Slush
@@ -35,10 +35,10 @@ To find out more about Slush, check out the [documentation](https://github.com/s
 
 ## Contributing
 
-See the [CONTRIBUTING Guidelines](https://github.com/neovajohn/slush-slush-wac/blob/master/CONTRIBUTING.md)
+See the [CONTRIBUTING Guidelines](https://github.com/novajohn/slush-wac/blob/master/CONTRIBUTING.md)
 
 ## Support
-If you have any problem or suggestion please open an issue [here](https://github.com/neovajohn/slush-slush-wac/issues).
+If you have any problem or suggestion please open an issue [here](https://github.com/novajohn/slush-wac/issues).
 
 ## License 
 
